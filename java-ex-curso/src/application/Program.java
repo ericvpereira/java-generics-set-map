@@ -22,6 +22,7 @@ public class Program {
         System.out.println("Total students: " + alunos.size());
 
         sc.close();
+
     }
 
     private static void lerAlunos(Scanner sc, Set<Usuario> alunos) {
